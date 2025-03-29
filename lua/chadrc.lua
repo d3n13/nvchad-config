@@ -21,7 +21,4 @@ M.base46 = {
 --      }
 --}
 
-vim.opt.relativenumber = true
-vim.opt.number = true
-
 return M
